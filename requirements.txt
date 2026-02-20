@@ -1,0 +1,15 @@
+# Core
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# API
+fastapi
+uvicorn
+
+# Optional (recommended for metrics + analysis)
+matplotlib
+seaborn
